@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Manuel León, I'm from Spain.
+- 👋 Hi, my name is Manuel León, I'm from Spain. :es:
 - :mortar_board: I'm an Industrial Engineering working for a tech company as Junior Programmer. :white_check_mark:
 - :books: I’m studying a Big Data and Data Science Msc at International University of Valencia.  :bar_chart:
-- :v: Here I'm posting all my personal projects!!
+- :v: Here I'm posting all my personal projects!! :computer:
 
 <!---
 mlionl/mlionl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
